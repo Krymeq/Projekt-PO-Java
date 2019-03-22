@@ -1,9 +1,8 @@
 
-======================== BRIEF PROJECT GUIDE ==========================
+======================== BRIEF PROJECT GUIDE ==============================
 
-Repository contains .zip archive with the full NetBeans project ready
-to import, and src directory which contains plain app code (main app logic
-is located in classes placed in src/classes directory).
+Repository contains ProjektPO-Java directory with full NetBeans project ready
+to import. Plain app code can be found in ProjektPO-Java/src/classes.
 
 While launched, main window allows us to manage three sets of objects:
 

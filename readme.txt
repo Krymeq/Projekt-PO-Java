@@ -1,7 +1,7 @@
 
 ============== KRÓTKA INSTRUKCJA OBS£UGI PROJEKTU =================
 
-Repozytorium zawiera archiwum .zip z gotowym projektem wykonanym w
+Repozytorium zawiera folder z gotowym projektem wykonanym w
 NetBeans który mo¿na zaimportowaæ, a tak¿e folder src - z surowym
 kodem aplikacji (g³ówna logika aplikacji zawiera siê w klasach 
 w src/classes).
