@@ -1,5 +1,5 @@
 
-======================== BRIEF PROJECT GUIDE ==============================
+BRIEF PROJECT GUIDE
 
 Repository contains ProjektPO-Java directory with full NetBeans project ready
 to import. Plain app code can be found in ProjektPO-Java/src/classes.

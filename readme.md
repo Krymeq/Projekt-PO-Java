@@ -1,5 +1,5 @@
 
-============== KRÓTKA INSTRUKCJA OBS£UGI PROJEKTU =================
+KRÓTKA INSTRUKCJA OBS£UGI PROJEKTU
 
 Repozytorium zawiera folder z gotowym projektem wykonanym w
 NetBeans który mo¿na zaimportowaæ, a tak¿e folder src - z surowym
